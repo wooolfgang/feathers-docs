@@ -86,6 +86,7 @@
   * [Migrating to Feathers 2](guides/migrating.md)
   * [Using A View Engine](guides/using-a-view-engine.md)
   * [Creating a plugin](guides/creating-a-plugin.md)
+  * [Many to Many Relationships](guides/many-to-many.md)
 * [Help](help/readme.md)
   * [FAQ](help/faq.md)
   * [Contributing](contributing.md)
