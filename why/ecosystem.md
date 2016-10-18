@@ -6,6 +6,8 @@
 
 A minimalist, real-time JavaScript framework built for NodeJS, React-Native and the browser.
 
+[Changelog](https://docs.feathersjs.com/changelog.html)
+
 [![npm version](https://badge.fury.io/js/feathers.svg)](https://badge.fury.io/js/feathers)
 [![Build Status](https://travis-ci.org/feathersjs/feathers.png?branch=master)](https://travis-ci.org/feathersjs/feathers)
 [![Code Climate](https://codeclimate.com/github/feathersjs/feathers.png)](https://codeclimate.com/github/feathersjs/feathers)
@@ -15,6 +17,16 @@ A minimalist, real-time JavaScript framework built for NodeJS, React-Native and 
 
 ### feathers-hooks
 
+Service method hooks for easy authorization and processing
+
+[Changelog](https://github.com/feathersjs/feathers-hooks/blob/master/CHANGELOG.md)
+
+[![npm version](https://badge.fury.io/js/feathers-hooks.svg)](https://badge.fury.io/js/feathers-hooks)
+[![Build Status](https://travis-ci.org/feathersjs/feathers-hooks.png?branch=master)](https://travis-ci.org/feathersjs/feathers-hooks)
+[![Code Climate](https://codeclimate.com/github/feathersjs/feathers-hooks/badges/gpa.svg)](https://codeclimate.com/github/feathersjs/feathers-hooks)
+[![Test Coverage](https://codeclimate.com/github/feathersjs/feathers-hooks/badges/coverage.svg)](https://codeclimate.com/github/feathersjs/feathers-hooks/coverage)
+[![Dependency Status](https://img.shields.io/david/feathersjs/feathers-hooks.svg?style=flat-square)](https://david-dm.org/feathersjs/feathers-hooks)
+[![Download Status](https://img.shields.io/npm/dm/feathers-hooks.svg?style=flat-square)](https://www.npmjs.com/package/feathers-hooks)
 
 ## API providers
 
