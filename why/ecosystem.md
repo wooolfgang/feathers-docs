@@ -2,11 +2,11 @@
 
 ## Core
 
-### [feathers](https://github.com/feathersjs/feathers)
+### feathers
 
 A minimalist, real-time JavaScript framework built for NodeJS, React-Native and the browser.
 
-[Changelog](https://docs.feathersjs.com/changelog.html)
+[Documentation](http://docs.feathersjs.com) | [GitHub](https://github.com/feathersjs/feathers) | [Changelog](https://docs.feathersjs.com/changelog.html)
 
 [![npm version](https://badge.fury.io/js/feathers.svg)](https://badge.fury.io/js/feathers)
 [![Build Status](https://travis-ci.org/feathersjs/feathers.png?branch=master)](https://travis-ci.org/feathersjs/feathers)
@@ -46,6 +46,13 @@ Service method hooks for easy authorization and processing
 ### feathers-authentication-local
 
 ### feathers-permissions
+
+
+## Plugins
+
+### feathers-hooks-common
+
+### feathers-reactive
 
 
 ## Utilities
@@ -109,8 +116,6 @@ Service method hooks for easy authorization and processing
 
 
 ## Incubator
-
-### feathers-reactive
 
 ### feathers-batch
 
