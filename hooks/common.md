@@ -29,7 +29,7 @@ Categories of hooks in `feathers-hooks-common`:
 * [Running hooks conditionally](#runningHooksConditionally)
 * [Utilities for Writing Hooks](#utilitiesForWritingHooks)
 
-## Deprecations {#deprecations}
+## <a name="deprecations"></a> Deprecations
 
 A few things from `feathers-hooks` have been deprecated and will be removed in a future version of `feathers-hooks-common`.
 
