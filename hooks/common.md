@@ -29,14 +29,14 @@ Categories of hooks in `feathers-hooks-common`:
 * [Running hooks conditionally](#runningHooksConditionally)
 * [Utilities for Writing Hooks](#utilitiesForWritingHooks)
 
-## <a name="deprecations"></a> Deprecations
+## Deprecations {#deprecations}
 
 A few things from `feathers-hooks` have been deprecated and will be removed in a future version of `feathers-hooks-common`.
 
 - Some hooks allowed a predicate function as their last param, e.g. `remove('name', () => true)`. This allowed the hook to be conditionally run. Use `iff(predicate, hookFunc)` instead.
 - Instead of `restrictToRoles` use the expanded hooks bundled with the next version of `feathers-authentication`.
 
-## <a name="alteringData"></a> Altering Data
+## Altering Data {#alteringData}
 
 These hooks are used to manipulate your data before it is sent to the database or after it retrieved.
 
