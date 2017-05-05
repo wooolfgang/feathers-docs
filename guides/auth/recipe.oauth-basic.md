@@ -25,7 +25,7 @@ The [`Feathers-cli`](https://github.com/feathersjs/feathers-cli) allows you to e
 
 1. `npm install -g feathers-cli `<br/>
 or <br/>
-`yarn global feathers-cli`
+`yarn add global feathers-cli`
 1. `mkdir feathers-demo-oauth; cd feathers-demo-oauth`<br/>
  or a folder name you prefer.
 1. `feathers generate app`<br/>
